@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Michael (aka micsparre) and I'm a Software Engineer 🧑🏼‍💻 living in San Francisco! I'm interested in using technology to make our lives easier, more efficient, and thus more fulfillling. I'm also a big soccer fan and there's a good chance you might spot me at any of the fields in the Bay Area ⚽️
+
+## Skills
+
+    - Programming languages: Python, Java, Golang, C, React/Typescript
+    - Database technologies: SQL (MySQL, PostgreSQL, Oracle SQL)
+    - Other: Git/GitHub, Cloud Computing (AWS: Lambda, API Gateway, CloudWatch, etc), RESTful APIs
+
+## UPDATING IN PROGRESS
 
 <!--
 **micsparre/micsparre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
