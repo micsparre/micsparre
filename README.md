@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Michael (aka micsparre) and I'm a Software Engineer 🧑🏼‍💻 living in San Francisco! I'm interested in using technology to make our lives easier, more efficient, and thus more fulfillling. I'm also a big soccer fan and there's a good chance you might spot me at any of the fields in the Bay Area ⚽️
+## I'm Michael (aka micsparre) and I'm a Software Engineer 🧑🏼‍💻 living in San Francisco! I'm interested in using technology to make our lives easier, more efficient, and thus more fulfillling 🌱 I'm also a big soccer fan and there's a good chance you might spot me at any of the fields in the Bay Area ⚽️ Here's some more info about me and what I'm doing
 
 ## Skills
 
