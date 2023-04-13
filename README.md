@@ -2,12 +2,12 @@
 
 ### personal projects 🖥️
 
-- [worldmap - in progress](github.com/micsparre/worldmap): React website to keep track of your travel around the world
-- [kittytime](github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
+- [worldmap 🌎 (in progress)](github.com/micsparre/worldmap): React website to keep track of your travel around the world
+- [kittytime 😸](github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
 
 ### education 📖
 
-I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in Electrical Engineering and Computer Sciences (EECS)
+I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in Electrical Engineering and Computer Sciences (EECS) 🐻
 
 ### work experience 📈
 
@@ -20,8 +20,8 @@ I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in 
   
 ### contact me 📲
 
-You can reach me directly at micsparre@gmail.com
+You can reach me directly at micsparre@gmail.com 📧
 
 ### hobbies ⚽️
 
-In my free time, I like to play/watch soccer, build CAD models to 3D print, tinker with mechanical keyboards, and read sci-fi books!
+In my free time, I like to play/watch soccer, build CAD models to 3D print, tinker with mechanical keyboards, and read sci-fi books! ⌨️
