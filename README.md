@@ -7,7 +7,7 @@
 
 ### education 📖
 
-Graduated from UC Berkeley College of Engineering in Spring 2022, majoring in Electrical Engineering and Computer Sciences (EECS)
+I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in Electrical Engineering and Computer Sciences (EECS)
 
 ### work experience 📈
 
