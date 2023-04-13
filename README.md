@@ -1,15 +1,30 @@
-# Hi there 👋
+# 👋 Hello there! I'm a SF based software developer with a strong focus on data-driven solutions and cloud computing 💻 My expertise includes Python, SQL (MySQL, PostgreSQL, Oracle SQL), Terraform, and Cloud Computing (AWS - Lambda, CloudWatch, Glue) 🚀 I also have experience with Git, Bash/zsh scripting, and RESTful APIs 💡 With a deep understanding of these technologies, I'm passionate about leveraging data and cutting-edge tools to solve complex problems and drive business outcomes 📚 I'm committed to writing efficient, scalable, and maintainable code while continuously learning and staying up-to-date with industry best practices 🧑🏼‍💻 Collaboration, teamwork, and agile development methodologies are at the core of my approach, and I'm always eager to contribute to innovative projects. Open to new opportunities and excited to make a difference! 🫶
 
-## I'm Michael (aka micsparre) and I'm a Software Engineer 🧑🏼‍💻 living in San Francisco! I'm interested in using technology to make our lives easier, more efficient, and thus more fulfillling 🌱 I'm also a big soccer fan and there's a good chance you might spot me at any of the fields in the Bay Area ⚽️ Here's some more info about me and what I'm doing
+## personal projects 🖥️
 
-## Skills
+- [worldmap - in progress](github.com/micsparre/worldmap): React website to keep track of your travel around the world
+- [kittytime](github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
 
-    - Programming languages: Python, Java, Golang, C, React/Typescript
-    - Database technologies: SQL (MySQL, PostgreSQL, Oracle SQL)
-    - Other: Git/GitHub, Cloud Computing (AWS: Lambda, API Gateway, CloudWatch, etc), RESTful APIs
+## education 📖
 
-## UPDATING IN PROGRESS
+Graduated from UC Berkeley College of Engineering in Spring 2022, majoring in Electrical Engineering and Computer Sciences (EECS)
 
+## work experience 📈
+
+- 12 month internship/part-time work as a Software Engineer at Gilead Sciences
+- [current] started in June 2022 as a full-time Software Engineer / Python Developer at Gilead Sciences
+  - Drive cloud-based solutions in AWS, leveraging Lambda functions and AWS Glue, to efficiently intake, process, and export data
+  - Coordinate Python development efforts as the lead developer in a business-facing development team, building robust data processing systems
+  - Spearheaded and led an innovative project to automate Terraform scripts by leveraging repo metadata, resulting in a drastic reduction of AWS deployment time from over 1 day to minutes, significantly enhancing team efficiency and productivity
+  - Lead multiple projects with varying deadlines, taking ownership of end-to-end development, including data storage, processing, promotion, and exports, and consistently delivering effective, efficient, and high-quality code
+  
+## contact me 📲
+
+You can reach me directly at micsparre@gmail.com
+
+## hobbies ⚽️
+
+In my free time, I like to play/watch soccer, build CAD models to 3D print, tinker with mechanical keyboards, and read sci-fi books!
 <!--
 **micsparre/micsparre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
