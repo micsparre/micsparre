@@ -4,7 +4,7 @@
 
 - [fpl_draft_league ⚽️](https://github.com/micsparre/fpl_draft_legue): Daily newsletter for details about a Fantasy Premier League league
 - [worldmap 🌎 (in progress)](https://micsparre.github.io/worldmap): React website to keep track of your travel around the world
-- [kittytime 😸](https://micsparre.github.io/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
+- [kittytime 😸](https://micsparre.github.io/kittytime): React website that uses a cat api to display an image at 3:14AM/PM local time every day
 
 ### education 📖
 
