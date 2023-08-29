@@ -2,9 +2,9 @@
 
 ### personal projects 🖥️
 
-- [fpl_draft_league ⚽️](github.com/micsparre/fpl_draft_legue): Daily newsletter for details about a Fantasy Premier League league
-- [worldmap 🌎 (in progress)](github.com/micsparre/worldmap): React website to keep track of your travel around the world
-- [kittytime 😸](github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
+- [fpl_draft_league ⚽️](https://github.com/micsparre/fpl_draft_legue): Daily newsletter for details about a Fantasy Premier League league
+- [worldmap 🌎 (in progress)](https://github.com/micsparre/worldmap): React website to keep track of your travel around the world
+- [kittytime 😸](https://github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
 
 ### education 📖
 
