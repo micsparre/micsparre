@@ -2,6 +2,7 @@
 
 ### personal projects 🖥️
 
+- [fpl_draft_league ⚽️](github.com/micsparre/fpl_draft_legue): Daily newsletter for details about a Fantasy Premier League league
 - [worldmap 🌎 (in progress)](github.com/micsparre/worldmap): React website to keep track of your travel around the world
 - [kittytime 😸](github.com/micsparre/kittytime): React website that shows images of cats at 3:14AM/PM local time every day
 
@@ -11,11 +12,10 @@ I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in 
 
 ### work experience 📈
 
-- 12 month internship/part-time work as a Software Engineer at Gilead Sciences
-- [current] started in June 2022 as a full-time Software Engineer / Python Developer at Gilead Sciences
-  - Drive cloud-based solutions in AWS, leveraging Lambda functions and AWS Glue, to efficiently intake, process, and export data
+- [current] full-time Software Engineer / Python Developer at Gilead Sciences
+  - Drive cloud-based solutions in AWS, leveraging S3, Lambda functions, AWS Glue, etc to efficiently intake, process, and export data
   - Coordinate Python development efforts as the lead developer in a business-facing development team, building robust data processing systems
-  - Spearheaded and led an innovative project to automate Terraform scripts by leveraging repo metadata, resulting in a drastic reduction of AWS deployment time from over 1 day to minutes, significantly enhancing team efficiency and productivity
+  - Spearheaded and led an innovative project to automate Terraform files, resulting in a drastic reduction of AWS deployment time from 1+ days to   minutes, significantly enhancing team efficiency and productivity
   - Lead multiple projects with varying deadlines, taking ownership of end-to-end development, including data storage, processing, promotion, and exports, and consistently delivering effective, efficient, and high-quality code
   
 ### contact me 📲
