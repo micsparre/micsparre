@@ -1,8 +1,8 @@
-## 👋 Hello there! I'm a SF based software developer with a strong focus on data-driven solutions and cloud computing 💻 My expertise includes Python, SQL (MySQL, PostgreSQL, Oracle SQL), Terraform, and Cloud Computing (AWS - Lambda, CloudWatch, Glue) 🚀 I also have experience with Git, Bash/zsh scripting, and RESTful APIs 💡 With a deep understanding of these technologies, I'm passionate about leveraging data and cutting-edge tools to solve complex problems and drive business outcomes 📚 I'm committed to writing efficient, scalable, and maintainable code while continuously learning and staying up-to-date with industry best practices 🧑🏼‍💻 Collaboration, teamwork, and agile development methodologies are at the core of my approach, and I'm always eager to contribute to innovative projects. Open to new opportunities and excited to make a difference! 🫶
+## welcome
 
 ### personal projects 🖥️
 
-- [fpl_newsletter ⚽️](https://github.com/micsparre/newsletter): Daily newsletter for details about a Fantasy Premier League league
+- [fpl_newsletter ⚽️](https://github.com/micsparre/fpl_newsletter): Daily newsletter for details about a Fantasy Premier League league
 - [worldmap 🌎 (in progress)](https://micsparre.github.io/worldmap): React website to keep track of your travel around the world
 - [kittytime 😸](https://micsparre.github.io/kittytime): React website that uses a cat api to display an image at 3:14AM/PM local time every day
 
