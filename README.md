@@ -2,10 +2,10 @@
 
 ### personal projects 🖥️
 
-- [anime-ranking 🚥](https://github.com/micsparre/anime-ranking): [Website](https://anime-ranking-react.fly.dev/) to comparatively rank anime, bookmark titles, and get personalized recommendations
-- [fpl_newsletter ⚽️](https://github.com/micsparre/fpl_newsletter): Daily newsletter for details about a Fantasy Premier League league
-- [worldmap 🌎](https://github.com/micsparre/worldmap): [Website](https://micsparre.github.io/worldmap) to track the countries you've visted on a rotatable globe
-- [kittytime 😸](https://github.com/micsparre/kittytime): [Website](https://micsparre.github.io/kittytime) that uses a cat api to display an image at 3:14AM/PM local time every day
+- [anime-ranking 🚥](https://github.com/micsparre/anime-ranking#readme): [Website](https://anime-ranking-react.fly.dev/) to comparatively rank anime, bookmark titles, and get personalized recommendations
+- [fpl_newsletter ⚽️](https://github.com/micsparre/fpl_newsletter#readme): Daily newsletter for details about a Fantasy Premier League league
+- [worldmap 🌎](https://github.com/micsparre/worldmap#readme): [Website](https://micsparre.github.io/worldmap) to track the countries you've visted on a rotatable globe
+- [kittytime 😸](https://github.com/micsparre/kittytime#readme): [Website](https://micsparre.github.io/kittytime) that uses a cat api to display an image at 3:14AM/PM local time every day
 
 ### education 📖
 
