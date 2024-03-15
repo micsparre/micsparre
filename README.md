@@ -18,9 +18,9 @@ You can find my personal website at [micsparre.github.io](https://micsparre.gith
 ### work experience 📈
 
 - [current] full-time Software Engineer / Python Developer at Gilead Sciences
-  - Drive cloud-based solutions in AWS, leveraging S3, Lambda functions, AWS Glue, etc to efficiently intake, process, and export data
+  - Drive cloud-based solutions in AWS, leveraging S3, Lambda functions, Glue jobs, etc to efficiently intake, process, and export data
   - Coordinate Python development efforts as the lead developer in a business-facing development team, building robust data processing systems
-  - Spearheaded and led an innovative project to automate Terraform files, resulting in a drastic reduction of AWS deployment time from 1+ days to minutes, significantly enhancing team efficiency and productivity
+  - Spearheaded and led an innovative project to automate infra (terraform) + cicd (gh actions) files, resulting in a drastic reduction of AWS deployment time from 1+ days to minutes, significantly enhancing team efficiency and productivity
   - Lead multiple projects with varying deadlines, taking ownership of end-to-end development, including data storage, processing, promotion, and exports, and consistently delivering effective, efficient, and high-quality code
 
 ### contact me 📲
