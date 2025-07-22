@@ -13,7 +13,8 @@ I graduated from UC Berkeley College of Engineering in Spring 2022, majoring in 
 
 ### personal website
 
-You can find my personal website at [micsparre.github.io](https://micsparre.github.io) 🌐
+You can find my personal website at [michaelsparre.com](https://michaelsparre.com) 🌐
+
 
 ### work experience 📈
 
