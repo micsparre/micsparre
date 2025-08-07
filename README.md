@@ -2,6 +2,7 @@
 
 ### personal projects 🖥️
 
+- [wordfake ❌](https://github.com/micsparre/wordfake#readme): Daily [website](https://wordfake.com) game where you are given 5 words, 4 of them are real, and you have to guess which one is fake
 - [jaku 🚥](https://github.com/micsparre/jaku#readme): [Web app](https://jaku.pages.dev/) tool for anime - comparatively rank watched content, bookmark shows, and get personalized recommendations
 - [fpl-newsletter ⚽️](https://github.com/micsparre/fpl-newsletter#readme): Daily newsletter for details about a Fantasy Premier League league
 - [world-map 🌎](https://github.com/micsparre/world-map#readme): [Web app](https://micsparre.github.io/world-map) to track the countries you've visted on a rotatable globe (desktop only)
@@ -18,16 +19,13 @@ You can find my personal website at [michaelsparre.com](https://michaelsparre.co
 
 ### work experience 📈
 
-- [current] full-time Software Engineer / Python Developer at Gilead Sciences
-  - Drive cloud-based solutions in AWS, leveraging S3, Lambda functions, Glue jobs, etc to efficiently intake, process, and export data
-  - Coordinate Python development efforts as the lead developer in a business-facing development team, building robust data processing systems
-  - Spearheaded and led an innovative project to automate infra (terraform) + cicd (gh actions) files, resulting in a drastic reduction of AWS deployment time from 1+ days to minutes, significantly enhancing team efficiency and productivity
-  - Lead multiple projects with varying deadlines, taking ownership of end-to-end development, including data storage, processing, promotion, and exports, and consistently delivering effective, efficient, and high-quality code
+- [current] founding engineer @ [grepr](https://grepr.ai)
+  - Designing and developing highly available, low-latency, and high-throughput distributed systems, with a focus on real-time stream processing using Apache Flink and Apache Iceberg.
 
 ### contact me 📲
 
-You can reach me directly at micsparre@gmail.com 📧
+You can reach me directly at [micsparre@gmail.com](mailto:micsparre@gmail.com) 📧
 
 ### hobbies ⚽️
 
-In my free time, I like to play/watch soccer, build CAD models to 3D print, tinker with mechanical keyboards, and read sci-fi books! ⌨️
+In my free time, I like to play/watch soccer, build CAD models to 3D print, tinker with mechanical keyboards, read sci-fi books, and play with my cats! ⌨️
